@@ -12,6 +12,7 @@ namespace NSE.Identidade.API.Data
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
 
+
         }
     }
 }
